@@ -139,7 +139,7 @@
 
 ## 📝 DEPLOY 
 
-
+plataforma-de-busca.vercel.app
 
 ## 📝 Sobre
 ##### Plataforma de filmes chamda Cubos Flix.
